@@ -1,0 +1,5 @@
+/*q1
+	Java Does not support default arguments by default. Explain how to use method overloading techniques to create default arguments indirectly.
+	ANSWER : there are several ways to create default arguments in Java, but method overloading is the cleanest and simplest. We can use 
+			default parameters in method overloading by giving them different data types or by having different number of parameters. But
+			the limitation in this method is that you can't have two optional parameters of same data type and any of them can't be excluded. */
